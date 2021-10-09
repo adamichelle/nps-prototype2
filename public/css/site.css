@@ -1,0 +1,7 @@
+.h-min-vh {
+    min-height: 100vh;
+}
+
+.validation-message.invalid-feedback {
+    display: block;
+}
